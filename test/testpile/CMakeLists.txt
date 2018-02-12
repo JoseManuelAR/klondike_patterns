@@ -1,0 +1,2 @@
+add_subdirectory(testfoundation)
+add_subdirectory(testtableau)
