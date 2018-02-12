@@ -31,8 +31,8 @@ Load: [Load a game from a file] l \<FILE>\><br />
 Save: [Save a game to a file] s \<FILE>\><br />
 <br />
 i.e.:<br />
-T2 F1 --> Move 1 card from 2nd tableau (T2) to 1st foundation (F1)<br />
-T4 T5 3 --> Move 3 cards from 4th tableau (T4) to 5th tableau (T5)<br />
-D W --> Move 1 card from deck (D) to waste (W)<br />
+m T2 F1 --> Move 1 card from 2nd tableau (T2) to 1st foundation (F1)<br />
+m T4 T5 3 --> Move 3 cards from 4th tableau (T4) to 5th tableau (T5)<br />
+f --> Move 1 card from deck (D) to waste (W)<br />
 
 
