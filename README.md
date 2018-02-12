@@ -5,20 +5,21 @@ To run the program execute the run.sh script<br />
 <br />
 Playing:<br />
 <br />
-F1:<><br />
-F2:<><br />
-F3:<><br />
-F4:<><br />
-T1:J♦<br />
-T2:A♠ XX<br />
-T3:8♣ XX XX<br />
-T4:Q♥ XX XX XX<br />
-T5:3♥ XX XX XX XX<br />
-T6:2♦ XX XX XX XX XX<br />
-T7:K♦ XX XX XX XX XX XX<br />
-W:<><br />
-D:[24] XX<br />
-Enter a movement:<br />
+x|m|f|u|r|l|s<br />
+F1[ 0]: <><br />
+F2[ 0]: <><br />
+F3[ 0]: <><br />
+F4[ 0]: <><br />
+T1[ 1]: 2♥ <br />
+T2[ 2]: 3♦  XX <br />
+T3[ 3]: 4♥  XX  XX <br />
+T4[ 4]: A♣  XX  XX  XX <br />
+T5[ 5]: K♦  XX  XX  XX  XX <br />
+T6[ 6]:10♥  XX  XX  XX  XX  XX <br />
+T7[ 7]: Q♣  XX  XX  XX  XX  XX  XX <br />
+ W[ 0]: <><br />
+ D[24]: XX <br />
+Enter a command:<br />
 <br />
 Available commands:<br />
 Exit: x [Terminate program]<br />
